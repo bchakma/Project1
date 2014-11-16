@@ -1,2 +1,4 @@
 This is my first script 
 This is my 2nd commit
+
+bug fixed in the release 1
